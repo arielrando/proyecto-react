@@ -1,4 +1,4 @@
-# IN DA HOUSE - Ariel Rando (DNI 36620374) - proyecto para curso de React para CoderHouse
+# Ariel Rando (DNI 36620374) - proyecto para curso de React
 
 ## Idea
 crear un e-commerce para una disquería (CDs y vinilos)
